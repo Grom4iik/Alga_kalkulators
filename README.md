@@ -12,3 +12,5 @@ Programma sastāv no datiem, kas jāievada lietotājam, lietotājam ir:
 - Nodokla likme.
 
 Nospiežot pogu "Aprekinat", programma automātiski atrisina citus datus un parāda "Jusu ienakumi". 
+
+### Izveidošanas datums: 30.10.2023
